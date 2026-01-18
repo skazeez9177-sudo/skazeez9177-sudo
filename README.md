@@ -3,7 +3,7 @@
 
 
 ##  Connect with me:
-[![Instagram](https://img.shields.io/badge/%20-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/az_eezzz)[![Email](https://img.shields.io/badge/%20-D14836?logo=gmail&logoColor=white&style=flat)](mailto:skazeez9177@gmail.com)
+[![Instagram](https://img.shields.io/badge/%20-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/az_eezzz) [![Email](https://img.shields.io/badge/%20-D14836?logo=gmail&logoColor=white&style=flat)](mailto:skazeez9177@gmail.com)
 
 
 
