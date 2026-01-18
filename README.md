@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I’m a fresher and aspirational Data Analyst<br>🐍 Building Python skills while growing as a data analyst<br>🤝 Looking to collaborate with data professionals and grow together<br>⚽ Ask me about messy data and football — my two favorite challenges!<br><br><br>
+💡 I’m a fresher and aspirational Data Analyst<br>🐍 Building Python skills while growing as a data analyst<br>🤝 Looking to collaborate with data professionals and grow together<br>⚽ Ask me about messy data and football - my two favorite challenges!<br><br>
 
 
 ## 🌐 Socials:
