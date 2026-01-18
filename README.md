@@ -2,11 +2,19 @@
 💡 I’m a fresher and aspirational Data Analyst<br>🐍 Building Python skills while growing as a data analyst<br>🤝 Looking to collaborate with data professionals and grow together<br>⚽ Ask me about messy data and football - my two favorite challenges!<br><br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/az_eezzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azeez-shaik-938089377/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skazeez9177@gmail.com) 
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/-?logo=instagram&logoColor=E4405F&style=flat)](https://instagram.com/az_eezzz)
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=0077B5&style=flat)](https://www.linkedin.com/in/azeez-shaik-938089377/)
+[![Email](https://img.shields.io/badge/-?logo=gmail&logoColor=D14836&style=flat)](mailto:skazeez9177@gmail.com)
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+# 💻 Languages and tools:
+![MySQL](https://img.shields.io/badge/-?logo=mysql&logoColor=4479A1&style=flat)
+![Power BI](https://img.shields.io/badge/-?logo=powerbi&logoColor=F2C811&style=flat)
+![Python](https://img.shields.io/badge/-?logo=python&logoColor=3670A0&style=flat)
+![NumPy](https://img.shields.io/badge/-?logo=numpy&logoColor=013243&style=flat)
+![Pandas](https://img.shields.io/badge/-?logo=pandas&logoColor=150458&style=flat)
+![Plotly](https://img.shields.io/badge/-?logo=plotly&logoColor=3F4F75&style=flat)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skazeez9177-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skazeez9177-sudo&theme=dark&hide_border=false)<br/>
