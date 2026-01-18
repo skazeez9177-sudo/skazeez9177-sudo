@@ -4,7 +4,10 @@
 
 ##  Connect with me:
 [![Instagram](https://img.shields.io/badge/%20-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/az_eezzz)
-[![LinkedIn](https://img.shields.io/badge/%20-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/azeez-shaik-938089377/)
+<a href="https://www.linkedin.com/in/azeez-shaik-938089377/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30"/>
+</a>
+
 [![Email](https://img.shields.io/badge/%20-D14836?logo=gmail&logoColor=white&style=flat)](mailto:skazeez9177@gmail.com)
 
 
