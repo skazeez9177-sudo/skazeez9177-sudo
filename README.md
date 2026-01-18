@@ -3,17 +3,19 @@
 
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/-?logo=instagram&logoColor=E4405F&style=flat)](https://instagram.com/az_eezzz)
-[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=0077B5&style=flat)](https://www.linkedin.com/in/azeez-shaik-938089377/)
-[![Email](https://img.shields.io/badge/-?logo=gmail&logoColor=D14836&style=flat)](mailto:skazeez9177@gmail.com)
+[![Instagram](https://img.shields.io/badge/%20-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/az_eezzz)
+[![LinkedIn](https://img.shields.io/badge/%20-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/azeez-shaik-938089377/)
+[![Email](https://img.shields.io/badge/%20-D14836?logo=gmail&logoColor=white&style=flat)](mailto:skazeez9177@gmail.com)
+
 
 # 💻 Languages and tools:
-![MySQL](https://img.shields.io/badge/-?logo=mysql&logoColor=4479A1&style=flat)
-![Power BI](https://img.shields.io/badge/-?logo=powerbi&logoColor=F2C811&style=flat)
-![Python](https://img.shields.io/badge/-?logo=python&logoColor=3670A0&style=flat)
-![NumPy](https://img.shields.io/badge/-?logo=numpy&logoColor=013243&style=flat)
-![Pandas](https://img.shields.io/badge/-?logo=pandas&logoColor=150458&style=flat)
-![Plotly](https://img.shields.io/badge/-?logo=plotly&logoColor=3F4F75&style=flat)
+![MySQL](https://img.shields.io/badge/%20-4479A1?logo=mysql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/%20-F2C811?logo=powerbi&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/%20-3670A0?logo=python&logoColor=ffdd54&style=flat)
+![NumPy](https://img.shields.io/badge/%20-013243?logo=numpy&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/%20-150458?logo=pandas&logoColor=white&style=flat)
+![Plotly](https://img.shields.io/badge/%20-3F4F75?logo=plotly&logoColor=white&style=flat)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skazeez9177-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
