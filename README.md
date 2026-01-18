@@ -11,6 +11,7 @@
 # 💻 Languages and tools:
 ![MySQL](https://img.shields.io/badge/%20-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/%20-F2C811?logo=powerbi&logoColor=black&style=flat)
+
 ![Python](https://img.shields.io/badge/%20-3670A0?logo=python&logoColor=ffdd54&style=flat)
 ![NumPy](https://img.shields.io/badge/%20-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/%20-150458?logo=pandas&logoColor=white&style=flat)
