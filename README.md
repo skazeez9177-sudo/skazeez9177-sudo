@@ -16,8 +16,7 @@
 ![Plotly](https://img.shields.io/badge/%20-3F4F75?logo=plotly&logoColor=white&style=flat)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=skazeez9177-sudo&limit=5&theme=dark&combine_all_yearly_contributions=true)
