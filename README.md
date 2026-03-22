@@ -52,14 +52,14 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 ## 🔎 GitHub Insights & Stats
 <div style="display: flex; flex-wrap: nowrap; align-items: center;" align="left"> 
   <img  
-    src="https://github-readme-stats.vercel.app/api?username=skazeez9177-sudo/skazeez9177-sudo&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=skazeez9177-sudo&show_icons=true&theme=default&icon_color=7C4DFF&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10"
     height="195"
     width="390"
     style="margin-right:12px;"
     alt="Azeez Shaik's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skazeez9177-sudo/skazeez9177-sudo&layout=compact&card_width=280&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true&text_bold=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skazeez9177-sudo&layout=compact&card_width=280&theme=default&title_color=1E88E5&text_color=000000&bg_color=ffffff&hide_border=false&border_color=1E88E5&border_radius=10&include_all_commits=true&count_private=true&text_bold=true"
     height="190"
     width="280"
     alt="Top Languages"
@@ -69,20 +69,20 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=skazeez9177-sudo/skazeez9177-sudo&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sskazeez9177-sudo&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
     height="195" 
     alt="GitHub Streak Stats" 
   />
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=skazeez9177-sudo/skazeez9177-sudo&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=skazeez9177-sudo&label=Profile%20views&color=4CAF50&style=flat" alt="Profile views"/>
 </p>
 
 ## ⚡ Contribution Highlights  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=skazeez9177-sudo/skazeez9177-sudo&bg_color=ffffff&color=000000&line=1E88E5&point=424242&area=true&area_color=1E88E5&hide_border=true&custom_title=%20Activity%20Timeline&height=365&title_size=20&label_size=16&first_day=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=skazeez9177-sudo&bg_color=ffffff&color=000000&line=1E88E5&point=424242&area=true&area_color=1E88E5&hide_border=true&custom_title=%20Activity%20Timeline&height=365&title_size=20&label_size=16&first_day=1" 
     width="98%"
     alt="Activity Graph"
   />
