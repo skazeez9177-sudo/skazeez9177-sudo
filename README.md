@@ -62,7 +62,7 @@ Feel free to explore my projects! I'm always ready to create data-driven solutio
 </div>
 
 
-<div align="center">
+<div align="left">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=skazeez9177-sudo&theme=default&hide_border=false&border_radius=10&border=1E88E5&ring=7C4DFF&fire=1E88E5&currStreakLabel=000000" 
     height="195" 
